@@ -1,0 +1,20 @@
+{
+  "name": "Sitespeed-Performance-Tests",
+  "version": "1.0.0",
+  "description": "Performance testing with sitespeed.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joncclark11/Sitespeed-Performance-Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joncclark11/Sitespeed-Performance-Tests/issues"
+  },
+  "homepage": "https://github.com/joncclark11/Sitespeed-Performance-Tests#readme"
+}
